@@ -1,0 +1,16 @@
+C:\Users\nvrsk\Desktop\VirtualStudio\sum N\Sum N arif\Sum N arif\bin\Debug\net5.0\Sum N arif.exe
+C:\Users\nvrsk\Desktop\VirtualStudio\sum N\Sum N arif\Sum N arif\bin\Debug\net5.0\Sum N arif.deps.json
+C:\Users\nvrsk\Desktop\VirtualStudio\sum N\Sum N arif\Sum N arif\bin\Debug\net5.0\Sum N arif.runtimeconfig.json
+C:\Users\nvrsk\Desktop\VirtualStudio\sum N\Sum N arif\Sum N arif\bin\Debug\net5.0\Sum N arif.runtimeconfig.dev.json
+C:\Users\nvrsk\Desktop\VirtualStudio\sum N\Sum N arif\Sum N arif\bin\Debug\net5.0\Sum N arif.dll
+C:\Users\nvrsk\Desktop\VirtualStudio\sum N\Sum N arif\Sum N arif\bin\Debug\net5.0\ref\Sum N arif.dll
+C:\Users\nvrsk\Desktop\VirtualStudio\sum N\Sum N arif\Sum N arif\bin\Debug\net5.0\Sum N arif.pdb
+C:\Users\nvrsk\Desktop\VirtualStudio\sum N\Sum N arif\Sum N arif\obj\Debug\net5.0\Sum N arif.csproj.AssemblyReference.cache
+C:\Users\nvrsk\Desktop\VirtualStudio\sum N\Sum N arif\Sum N arif\obj\Debug\net5.0\Sum N arif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvrsk\Desktop\VirtualStudio\sum N\Sum N arif\Sum N arif\obj\Debug\net5.0\Sum N arif.AssemblyInfoInputs.cache
+C:\Users\nvrsk\Desktop\VirtualStudio\sum N\Sum N arif\Sum N arif\obj\Debug\net5.0\Sum N arif.AssemblyInfo.cs
+C:\Users\nvrsk\Desktop\VirtualStudio\sum N\Sum N arif\Sum N arif\obj\Debug\net5.0\Sum N arif.csproj.CoreCompileInputs.cache
+C:\Users\nvrsk\Desktop\VirtualStudio\sum N\Sum N arif\Sum N arif\obj\Debug\net5.0\Sum N arif.dll
+C:\Users\nvrsk\Desktop\VirtualStudio\sum N\Sum N arif\Sum N arif\obj\Debug\net5.0\ref\Sum N arif.dll
+C:\Users\nvrsk\Desktop\VirtualStudio\sum N\Sum N arif\Sum N arif\obj\Debug\net5.0\Sum N arif.pdb
+C:\Users\nvrsk\Desktop\VirtualStudio\sum N\Sum N arif\Sum N arif\obj\Debug\net5.0\Sum N arif.genruntimeconfig.cache
